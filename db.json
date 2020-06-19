@@ -359,46 +359,6 @@
       "rawAmount": 8827,
       "cookedAmount": 9987,
       "description": "Sold some stuff"
-    },
-    {
-      "id": 1036,
-      "transactionDate": "2018-01-11",
-      "toFrom": "Farrell Inc",
-      "type": "Deposit",
-      "category": "Retained Earnings",
-      "rawAmount": 4762,
-      "cookedAmount": 5705,
-      "description": "Retained the earnings"
-    },
-    {
-      "id": 1037,
-      "transactionDate": "2018-01-14",
-      "toFrom": "Daniel Ehrenberg",
-      "type": "Deposit",
-      "category": "Sales Revenue",
-      "rawAmount": 4768,
-      "cookedAmount": 6582,
-      "description": "Sold some stuff"
-    },
-    {
-      "id": 1038,
-      "transactionDate": "2018-01-16",
-      "toFrom": "Anirduha Gupta",
-      "type": "Deposit",
-      "category": "Sales Revenue",
-      "rawAmount": 4001,
-      "cookedAmount": 4439,
-      "description": "Sold some stuff"
-    },
-    {
-      "id": 1039,
-      "transactionDate": "2018-01-19",
-      "toFrom": "The Legitimate Inn",
-      "type": "Withdrawal",
-      "category": "Hotels",
-      "rawAmount": -175,
-      "cookedAmount": -150,
-      "description": "One night stay for business"
     }
   ]
 }
